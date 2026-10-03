@@ -1,0 +1,3 @@
+module WecDashboard
+TimeSeriesChart 1.0 TimeSeriesChart.qml
+StatCard 1.0 StatCard.qml

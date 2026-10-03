@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource prefix="/WecDashboard">
+    <file>WecDashboard.qml</file>
+    <file>TimeSeriesChart.qml</file>
+    <file>StatCard.qml</file>
+    <file>qmldir</file>
+  </qresource>
+</RCC>
